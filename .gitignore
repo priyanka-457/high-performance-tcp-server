@@ -1,0 +1,14 @@
+# Build directories
+build/
+build-asan/
+build-tsan/
+
+# Compiled files
+*.o
+*.log
+
+# Python cache
+__pycache__/
+
+# IDE files
+.vscode/
